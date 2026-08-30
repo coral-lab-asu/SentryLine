@@ -42,6 +42,18 @@ body {
   text-align: left;
 }
 
+.affiliations {
+  max-width: 860px;
+  margin: 10px auto 0;
+  color: var(--muted);
+  font-size: 15px;
+  font-weight: 600;
+}
+.affiliations sup {
+  color: #9d5571;
+  font-weight: 800;
+}
+
 .app-mark {
   display: grid;
   place-items: center;
